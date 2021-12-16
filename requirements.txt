@@ -1,0 +1,10 @@
+streamlit==0.82.0
+requests==2.24.0
+requests-html==0.10.0
+st-annotated-text
+
+
+nltk==3.5
+transformers==3.1.0
+torch==1.7.1
+torchvision==0.8.2

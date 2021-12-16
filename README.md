@@ -1,1 +1,1 @@
-# example-app-QA-generator
+# example-app-Q-A-generator
